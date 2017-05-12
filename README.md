@@ -1,2 +1,3 @@
 # lata
-DO NOT USE, Being worked on. consilio is latin for design. Optimum is latin for best. Template name: best design
+
+DO NOT USE, Being worked on. lata is latin for Broad. Because its a template designed with a broad background
