@@ -1,7 +1,10 @@
 html {
 }
 .fullscreenDiv {
+    background-color: #e8e8e8;
+    /*
     background: url("https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Finnish_national_road_4_broad_shoulder.jpg/1024px-Finnish_national_road_4_broad_shoulder.jpg") no-repeat center center fixed;
+    */
     width: 100%;
     height: auto;
     bottom: 0px;
